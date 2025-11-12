@@ -2,7 +2,7 @@
 REM ============================================================
 REM  Cross-compilation script for ARM GNU Toolchain
 REM  This script builds all .c files in src/ into a shared lib
-REM  Output: lib\libcalc.so
+REM  Output: lib\libtest.so
 REM ============================================================
 
 setlocal

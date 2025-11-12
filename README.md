@@ -12,10 +12,11 @@
 ├── include
 ├── lib
 ├── main.c
+├── CompilerConfig.ini
 └── src
 ```
 
-`arm-gnu-toolchain-14.3.rel1-mingw-w64-x86_64-aarch64-none-linux-gnu`为交叉编译工具链目录，`include`目录存放头文件，`lib`目录存放动态库，`src`目录存放动态库源文件。`build.bat`为编译脚本，`clean.bat`为清理脚本，`main.c`为主程序。
+`arm-gnu-toolchain-14.3.rel1-mingw-w64-x86_64-aarch64-none-linux-gnu`为交叉编译工具链目录，`include`目录存放头文件，`lib`目录存放动态库，`src`目录存放动态库源文件。`build.bat`为编译脚本，`clean.bat`为清理脚本，`main.c`为主程序。`CompilerConfig.ini`为编译器配置文件。
 
 ## 编译命令
 
