@@ -13,7 +13,7 @@ set CC=%TOOLCHAIN%\bin\aarch64-none-linux-gnu-gcc.exe
 set SRC_DIR=src
 set INCLUDE_DIR=include
 set LIB_DIR=lib
-set LIB_NAME=calc
+set LIB_NAME=test
 
 REM --- Compilation flags --------------------------------------
 set CFLAGS=-fPIC -I%INCLUDE_DIR%
